@@ -18,6 +18,4 @@ This analysis requires [R software](https://cloud.r-project.org/) and
 
 1. Clone this repository
 2. Open RStudio and create new project associated with this directory [See here for details](https://rpubs.com/Dee_Chiluiza/create_RProject).
-3. Install and load `renv`
-4. Run `renv::restore()` to install dependencies. 
-5. Open each script in `./scripts` and run in number order
+3. Open each script in `./scripts` and run in number order
