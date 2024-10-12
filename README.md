@@ -8,7 +8,7 @@ Analysis for Colton et. al SARS-CoV-2 Pseudoneutralisation Paper
 The directory contains:
 
   - [:file\_folder: data](/data): The raw input data files (NOTE - these are DUMMY datasets in order to run the code to avoid participant identifiable data being made publically available)
-  - [:file\_folder: scripts](/scripts): R scripts to be run in number order.
+  - R scripts to be run in number order.
 
 
 ## How to replicate analysis
