@@ -1,0 +1,36 @@
+﻿serum_source,pid,serostatus,COVID_predose2,prime,V1,V2,dosing_interval,age,sex,ethnicity,HSCT_group,indication,diseasestatusattrialentry,D0,conditioning,lymph_depletion,tbi,prev_auto,prev_allo,no_prev_HSCT,toci_rec,hastheparticipantreceivedrituxim,ivig_rec,ivig_date,lymph_count_vac1,lymph_count_vac2,igg_level_vac1,igg_level_vac2,acute_gvhd_vac1,chronic_gvhd_vac1,any_gvhd_vac1,acute_gvhd_vac2,chronic_gvhd_vac2,any_gvhd_vac2,hsct_hadlymphocyteinfuspriorvac,lymph_infusion_vac2,hsct_hadnolymphstmcllpriorvac,hsct_hadstemcelltopuppriorvac,pred_u5_vac1,pred_5plus_vac1,pred_u5_vac2,pred_5plus_vac2
+HSCT,101,N,No,AZ,2021-02-05,2021-04-29,83,30,Female,White,Allo,Myeloid,Complete Remission,2020-02-11,Myeloablative,Campath,Yes,Unchecked,Unchecked,Checked,Unchecked,Yes,No,,0.9,0.9,14.2,12.2,None,None,No/Unknown,None,None,No/Unknown,Unchecked,None,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,102,N,No,AZ,2021-02-10,2021-04-29,78,64,Male,White,Auto,Myeloid,Complete Remission,2020-02-07,Unknown,Unknown,No,Checked,Unchecked,Unchecked,Unchecked,No,No,,0.3,0.9,10,9.7,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Checked,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,103,C,Yes,AZ,2021-02-08,2021-04-19,70,52,Female,White,Auto,Neuro,Not applicable (neuro),2012-08-18,Unknown,Unknown,No,Unchecked,Unchecked,Checked,Unchecked,No,No,,1.5,1.4,5.6,5.4,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Unchecked,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,104,N,Yes,AZ,2021-02-08,2021-04-23,74,53,Male,White,Auto,Neuro,Not applicable (neuro),2015-02-12,Unknown,Unknown,No,Unchecked,Unchecked,Checked,Unchecked,No,No,,1.2,1,8.3,8.2,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Unchecked,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,105,N,No,mRNA,2021-01-30,2021-05-03,93,40,Male,White,Allo,Myeloid,Complete Remission,2018-05-12,Myeloablative,Anti-thymocyte globulin,No,Unchecked,Unchecked,Checked,Unchecked,No,No,,2.3,2.5,8.5,9.3,None,None,No/Unknown,None,None,No/Unknown,Unchecked,None,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,106,N,No,mRNA,2021-01-30,2021-04-17,77,51,Male,Black,Auto,Myeloid,Complete Remission,2017-07-30,Unknown,Unknown,No,Unchecked,Unchecked,Checked,Unchecked,No,No,,2.2,2,3.7,4,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Unchecked,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,107,C,Yes,mRNA,2021-02-11,2021-04-30,78,39,Male,White,Auto,Lymphoid,Complete Remission,2019-10-01,Unknown,Unknown,No,Unchecked,Unchecked,Checked,Unchecked,No,No,,0.6,0.7,7,8.3,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Unchecked,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,108,C,Yes,mRNA,2021-02-23,2021-05-11,77,65,Female,White,Allo,Myeloid,Complete Remission,2019-12-22,Reduced Intensity,Campath,No,Unchecked,Unchecked,Checked,Unchecked,Yes,No,,0.8,0.8,11.1,11.3,None,None,No/Unknown,None,None,No/Unknown,Unchecked,None,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,109,C,Yes,AZ,2021-03-03,2021-05-14,72,52,Female,White,Allo,Myeloid,Complete Remission,2020-01-28,Reduced Intensity,None,No,Unchecked,Checked,Unchecked,Unchecked,Yes,No,,0.2,0.9,3.6,4.2,None,None,No/Unknown,None,None,No/Unknown,Unchecked,None,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+HSCT,110,C,Yes,AZ,2021-02-03,2021-03-16,41,67,Male,East Asian,Allo,Lymphoid,Complete Remission,2017-05-04,Reduced Intensity,Campath,No,Unchecked,Unchecked,Checked,Unchecked,No,No,,2,1,9.2,8.4,None,None,No/Unknown,None,None,No/Unknown,Unchecked,None,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked
+PITCH,301,N,No,AZ,2021-02-05,2021-04-29,83,30,Female,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,302,N,No,AZ,2021-02-10,2021-04-29,78,64,Male,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,303,C,Yes,AZ,2021-02-08,2021-04-19,70,52,Female,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,304,N,Yes,AZ,2021-02-08,2021-04-23,74,53,Male,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,305,N,No,mRNA,2021-01-30,2021-05-03,93,40,Male,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,306,N,No,mRNA,2021-01-30,2021-04-17,77,51,Male,Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,307,C,Yes,mRNA,2021-02-11,2021-04-30,78,39,Male,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,308,C,Yes,mRNA,2021-02-23,2021-05-11,77,65,Female,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,309,C,Yes,AZ,2021-03-03,2021-05-14,72,52,Female,White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PITCH,310,C,Yes,AZ,2021-02-03,2021-03-16,41,67,Male,East Asian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,501,C,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,502,C,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,503,C,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,504,C,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,505,C,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,506,N,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,507,N,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,508,N,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,509,N,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO,510,N,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSCT (PROSECO),701,N,No,AZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSCT (PROSECO),702,C,Yes,AZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSCT (PROSECO),703,N,No,mRNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSCT (PROSECO),704,C,Yes,mRNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSCT (PROSECO),705,N,No,mRNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

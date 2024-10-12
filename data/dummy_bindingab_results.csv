@@ -1,0 +1,11 @@
+﻿pid,visit_code,visit_date,days_since_last_vac,PostBoostRocheS,bindingab_vaccine_response
+101,postdose2,2021-05-27,28,0.4,NDE
+102,postdose2,2021-05-27,28,0.4,NDE
+103,postdose2,2021-05-17,28,36.3,DE (low)
+104,postdose2,2021-05-21,28,0.4,NDE
+105,postdose2,2021-05-31,28,5477,DE (normal)
+106,postdose2,2021-05-15,28,39179,DE (normal)
+107,postdose2,2021-05-28,28,6257,DE (normal)
+108,postdose2,2021-06-08,28,616,DE (normal)
+109,postdose2,2021-06-11,28,0.4,NDE
+110,postdose2,2021-04-13,28,694,DE (normal)

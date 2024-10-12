@@ -1,0 +1,11 @@
+﻿pid,visit_code,visit_date,days_since_last_vac,panel_14,nil_control
+101,postdose2,2021-05-27,28,0,0
+102,postdose2,2021-05-27,28,4,0
+103,postdose2,2021-05-17,28,4,1
+104,postdose2,2021-05-21,28,46,0
+105,postdose2,2021-05-31,28,0,0
+106,postdose2,2021-05-15,28,28,0
+107,postdose2,2021-05-28,28,0,0
+108,postdose2,2021-06-08,28,8,0
+109,postdose2,2021-06-11,28,0,0
+110,postdose2,2021-04-13,28,115,0
